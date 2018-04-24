@@ -1,4 +1,4 @@
-# JSP_BMS
+# BMS by JSP
 Welcome!
 
 This is a book management system for bookstore that based on JSP.
